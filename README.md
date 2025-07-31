@@ -42,5 +42,3 @@ SkillBridge is a full-stack web application that empowers students to **swap ski
 ### 📄 User Profiles
 - Showcasing posted skills, rating, and reviews
 - Edit profile with bio and interests
-
-
